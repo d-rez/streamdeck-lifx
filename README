@@ -1,0 +1,10 @@
+Too lazy to write a full readme. Bear with me.
+
+* You'll need Anaconda - create a Python environment. Just import `environment.xml` file I exported into Anaconda and it should get the job done
+* In launch.bat we're assuming the repo is cloned into `%USERPROFILE%\Documents\dev\streamdeck-lifx` folder. Adjust this as needed.
+* Populate `creds.py` with your LIFX API token
+* Assign `launch.bat` to one of your StreamDeck profiles
+
+Enjoy. I don't think I'll be working on this more, treat it as a proof of concept. But it works.
+
+Feel free to create an issue if there's something clearly wrong or create a pull request

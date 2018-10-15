@@ -1,0 +1,30 @@
+name: streamdeck
+channels:
+  - defaults
+dependencies:
+  - certifi=2018.4.16=py36_0
+  - freetype=2.8=h51f8f2c_1
+  - jpeg=9b=hb83a4c4_2
+  - libpng=1.6.34=h79bbb47_0
+  - libtiff=4.0.9=hb8ad9f9_1
+  - olefile=0.45.1=py36_0
+  - pillow=5.1.0=py36h0738816_0
+  - pip=10.0.1=py36_0
+  - python=3.6.5=h0c2934d_0
+  - setuptools=39.2.0=py36_0
+  - tk=8.6.7=hcb92d03_3
+  - vc=14=h0510ff6_3
+  - vs2015_runtime=14.0.25123=3
+  - wheel=0.31.1=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - zlib=1.2.11=h8395fce_2
+  - pip:
+    - chardet==3.0.4
+    - hidapi==0.7.99.post21
+    - idna==2.7
+    - pifx==1.0.1
+    - requests==2.19.1
+    - six==1.11.0
+    - urllib3==1.23
+
+
